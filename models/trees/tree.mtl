@@ -1,0 +1,860 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 78
+
+newmtl Material.010
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.011
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.012
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.013
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.014
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.015
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.016
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.017
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.018
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.019
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.020
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.021
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.022
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.023
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.024
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.025
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.026
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.027
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.028
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.029
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.030
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.031
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.032
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.033
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.034
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.035
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.036
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.037
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.038
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.039
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.040
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.041
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.042
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.043
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.044
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.045
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.046
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.047
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl Material.048
+Ns 22.778916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\BarkDecidious0194_7_S.jpg
+
+newmtl pineTexture.001
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.002
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd pineTexture.png
+
+newmtl pineTexture.003
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.004
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.005
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.006
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.007
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.008
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.009
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.010
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.011
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.012
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.013
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.014
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.015
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.016
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.017
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.018
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.019
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.020
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.021
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.022
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.023
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.024
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.025
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.026
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.027
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.028
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.029
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.030
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.031
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.032
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.033
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.034
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.035
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.036
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.037
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.038
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
+
+newmtl pineTexture.039
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Iulia\\Downloads\\PineTree (2)\\PineTree\\pineTexture.png
